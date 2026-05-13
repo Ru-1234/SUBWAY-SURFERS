@@ -1,0 +1,3 @@
+/home/maham/Downloads/OOP-project/build/CMakeFiles/SFMLRunner.dir
+/home/maham/Downloads/OOP-project/build/CMakeFiles/edit_cache.dir
+/home/maham/Downloads/OOP-project/build/CMakeFiles/rebuild_cache.dir
