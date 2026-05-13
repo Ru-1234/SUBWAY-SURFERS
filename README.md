@@ -350,11 +350,11 @@ All obstacles inherit from the base `Obstacle` class and scroll downward at the 
 
 | Obstacle | Image | Can Jump Over | Can Slide Under | Notes |
 |----------|-------|:-------------:|:---------------:|-------|
-| **Train** | train.png | ❌ No | ✅ Yes | Deadly if you run into it; must slide under |
-| **Barrier** | barrier.png | ✅ Yes | ❌ No | Jump over it |
-| **Cone** | cone.png | ✅ Yes | ❌ No | Jump over it |
-| **Fence** | fence.png | ❌ No | ✅ Yes | Slide under it |
-| **Policeman** | policeman.png | ✅ Yes | ❌ No | Jump over it |
+| **Train** | train.png | No | Yes | Deadly if you run into it; must slide under |
+| **Barrier** | barrier.png | Yes | No | Jump over it |
+| **Cone** | cone.png | Yes | No | Jump over it |
+| **Fence** | fence.png | No | Yes | Slide under it |
+| **Policeman** | policeman.png | Yes | No | Jump over it |
 
 **If you have a Shield active** — hitting an obstacle destroys the obstacle instead of ending the game (one hit protection).
 
